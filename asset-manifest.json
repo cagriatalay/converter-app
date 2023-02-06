@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/converter-app/static/css/main.e08672f4.css",
+    "main.js": "/converter-app/static/js/main.f86a3065.js",
+    "index.html": "/converter-app/index.html",
+    "main.e08672f4.css.map": "/converter-app/static/css/main.e08672f4.css.map",
+    "main.f86a3065.js.map": "/converter-app/static/js/main.f86a3065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08672f4.css",
+    "static/js/main.f86a3065.js"
+  ]
+}
